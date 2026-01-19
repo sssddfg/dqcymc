@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+CTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
@@ -403,6 +403,7 @@
           <a href="#" class="text-gray-500 hover:text-gray-300 text-sm transition-colors">隐私政策</a>
           <a href="#" class="text-gray-500 hover:text-gray-300 text-sm transition-colors">服务条款</a>
           <a href="#" class="text-gray-500 hover:text-gray-300 text-sm transition-colors">帮助中心</a>
+          <a href="dqcy.cwu.cc/wxzz.png" class="text-gray-500 hover:text-gray-300 text-sm transition-colors">赞助我们</a>
         </div>
       </div>
     </div>
