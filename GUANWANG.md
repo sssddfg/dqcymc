@@ -146,7 +146,7 @@ CTYPE html>
             <i class="fa fa-copy text-xl"></i>
           </button>
         </div>
-        <p class="text-gray-500 mt-4">版本支持: 1.21 | 欢迎加入: Just A Server</p>
+        <p class="text-gray-500 mt-4">版本支持: 1.20.4 | 欢迎加入: Just A Server</p>
       </div>
       
       <!-- 按钮组 -->
@@ -167,7 +167,7 @@ CTYPE html>
         </div>
         <div class="bg-dark-light/80 p-6 rounded-xl border border-primary/20 transform hover:-translate-y-2 transition-all duration-300">
           <p class="text-gray-400 mb-2">服务器版本</p>
-          <p class="text-3xl md:text-4xl font-bold text-white">1.21</p>
+          <p class="text-3xl md:text-4xl font-bold text-white">1.20.4</p>
         </div>
         <div class="bg-dark-light/80 p-6 rounded-xl border border-primary/20 transform hover:-translate-y-2 transition-all duration-300">
           <p class="text-gray-400 mb-2">注册玩家</p>
@@ -343,7 +343,7 @@ CTYPE html>
               <i class="fa fa-copy text-xl"></i>
             </button>
           </div>
-          <p class="text-gray-500 mt-6">版本支持: 1.21</p>
+          <p class="text-gray-500 mt-6">版本支持: 1.20.4</p>
         </div>
       </div>
     </div>
@@ -389,9 +389,9 @@ CTYPE html>
           <h3 class="text-xl font-bold mb-8">服务器信息</h3>
           <ul class="space-y-4">
             <li class="text-gray-400">IP: dqcy.de5.net</li>
-            <li class="text-gray-400">版本: 1.21</li>
+            <li class="text-gray-400">版本: 1.20.4</li>
             <li class="text-gray-400">在线模式: 关闭</li>
-            <li class="text-gray-400">玩家上限: 12(awa)</li>
+            <li class="text-gray-400">玩家上限: 20</li>
             <li class="text-gray-400">开服时间: 2026年1月</li>
           </ul>
         </div>
@@ -402,8 +402,7 @@ CTYPE html>
         <div class="flex space-x-8">
           <a href="#" class="text-gray-500 hover:text-gray-300 text-sm transition-colors">隐私政策</a>
           <a href="#" class="text-gray-500 hover:text-gray-300 text-sm transition-colors">服务条款</a>
-          <a href="#" class="text-gray-500 hover:text-gray-300 text-sm transition-colors">帮助中心</a>
-          <a href="dqcy.ccwu.cc" class="text-gray-500 hover:text-gray-300 text-sm transition-colors">赞助我们</a>
+          <a href="wxzz.png" class="text-gray-500 hover:text-gray-300 text-sm transition-colors">赞助我们</a>
         </div>
       </div>
     </div>
